@@ -1,0 +1,10 @@
+cd ~/airflow_lab
+cat > .gitignore << 'EOF'
+.env
+logs/
+plugins/
+__pycache__/
+*.pyc
+dags/dashboard/
+dags/model/
+EOF
