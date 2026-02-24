@@ -4,7 +4,7 @@ Airflow pipeline that performs K-Means clustering on credit card data, container
 
 ---
 
-## Lav Structure
+## Lab Structure
 
 ```
 airflow_lab/
@@ -244,5 +244,19 @@ To also remove volumes:
 ```bash
 docker compose down -v
 ```
+![WhatsApp Image 2026-02-24 at 1 58 00 PM](https://github.com/user-attachments/assets/4bc714e3-e144-4fe2-8adf-ad241957fbd6)
+
+![WhatsApp Image 2026-02-24 at 1 59 01 PM](https://github.com/user-attachments/assets/2b6ad851-253a-48fd-92bb-043a37ce533f)
+
+![WhatsApp Image 2026-02-24 at 1 59 24 PM](https://github.com/user-attachments/assets/e00b01a9-79e4-4314-a41e-b2745892f07f)
+
+![WhatsApp Image 2026-02-24 at 2 28 55 PM](https://github.com/user-attachments/assets/453d2913-45db-4863-8514-404a0bb7042c)
+
+![WhatsApp Image 2026-02-24 at 2 30 33 PM](https://github.com/user-attachments/assets/ab06a962-0f59-4e18-9f5f-aab5979c0c1f)
+
+![WhatsApp Image 2026-02-24 at 2 45 07 PM](https://github.com/user-attachments/assets/03ec1dd7-d4bc-4c04-83de-87ccfb63b87f)
+
+![WhatsApp Image 2026-02-24 at 2 47 41 PM](https://github.com/user-attachments/assets/65ac371a-ac40-4159-ab2a-4f8a66db5eda)
+
 
 ---
