@@ -149,3 +149,6 @@ How to Run
 
 ![WhatsApp Image 2026-03-28 at 2 28 15 PM](https://github.com/user-attachments/assets/5f7b772b-e1bb-4fd9-9b03-281557c3e2e4)
 
+<img width="1512" height="820" alt="Screenshot 2026-03-28 at 3 53 10 PM" src="https://github.com/user-attachments/assets/247c0a93-44a4-482e-a300-416026f3ffa1" />
+
+
